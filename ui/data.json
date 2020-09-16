@@ -1,0 +1,252 @@
+{
+	"defaultReport": {
+		"aggregated": {
+			"items": [
+				{
+					"category": "Data Exfiltration",
+					"high": 0,
+					"medium": 2,
+					"low": 5,
+					"impact": 5,
+					"occurences": 1536
+				},
+				{
+					"category": "Insider Threat",
+					"high": 15,
+					"medium": 3,
+					"low": 1,
+					"impact": 42,
+					"occurences": 831
+				},
+				{
+					"category": "Compromised Users",
+					"high": 41,
+					"medium": 6,
+					"low": 1,
+					"impact": 17,
+					"occurences": 705
+				},
+				{
+					"category": "Compromised Endpoints",
+					"high": 8,
+					"medium": 2,
+					"low": 9,
+					"impact": 31,
+					"occurences": 1544
+				}
+			]
+		},
+		"items": [
+			{
+				"dateTime": 1597149000000,
+				"Data Exfiltration": 40,
+				"Insider Threat": 39,
+				"Compromised Users": 1,
+				"Compromised Endpoints": 31
+			},
+			{
+				"dateTime": 1597235400000,
+				"Data Exfiltration": 51,
+				"Insider Threat": 42,
+				"Compromised Users": 9,
+				"Compromised Endpoints": 69
+			},
+			{
+				"dateTime": 1597321800000,
+				"Data Exfiltration": 21,
+				"Insider Threat": 16,
+				"Compromised Users": 5,
+				"Compromised Endpoints": 87
+			},
+			{
+				"dateTime": 1597408200000,
+				"Data Exfiltration": 78,
+				"Insider Threat": 63,
+				"Compromised Users": 15,
+				"Compromised Endpoints": 61
+			},
+			{
+				"dateTime": 1597494600000,
+				"Data Exfiltration": 26,
+				"Insider Threat": 1,
+				"Compromised Users": 25,
+				"Compromised Endpoints": 31
+			},
+			{
+				"dateTime": 1597581000000,
+				"Data Exfiltration": 19,
+				"Insider Threat": 15,
+				"Compromised Users": 4,
+				"Compromised Endpoints": 97
+			},
+			{
+				"dateTime": 1597667400000,
+				"Data Exfiltration": 71,
+				"Insider Threat": 44,
+				"Compromised Users": 27,
+				"Compromised Endpoints": 46
+			},
+			{
+				"dateTime": 1597753800000,
+				"Data Exfiltration": 3,
+				"Insider Threat": 1,
+				"Compromised Users": 2,
+				"Compromised Endpoints": 76
+			},
+			{
+				"dateTime": 1597840200000,
+				"Data Exfiltration": 94,
+				"Insider Threat": 19,
+				"Compromised Users": 75,
+				"Compromised Endpoints": 51
+			},
+			{
+				"dateTime": 1597926600000,
+				"Data Exfiltration": 83,
+				"Insider Threat": 40,
+				"Compromised Users": 43,
+				"Compromised Endpoints": 34
+			},
+			{
+				"dateTime": 1598013000000,
+				"Data Exfiltration": 96,
+				"Insider Threat": 44,
+				"Compromised Users": 52,
+				"Compromised Endpoints": 51
+			},
+			{
+				"dateTime": 1598099400000,
+				"Data Exfiltration": 2,
+				"Insider Threat": 1,
+				"Compromised Users": 1,
+				"Compromised Endpoints": 9
+			},
+			{
+				"dateTime": 1598185800000,
+				"Data Exfiltration": 43,
+				"Insider Threat": 41,
+				"Compromised Users": 2,
+				"Compromised Endpoints": 12
+			},
+			{
+				"dateTime": 1598272200000,
+				"Data Exfiltration": 83,
+				"Insider Threat": 50,
+				"Compromised Users": 33,
+				"Compromised Endpoints": 13
+			},
+			{
+				"dateTime": 1598358600000,
+				"Data Exfiltration": 75,
+				"Insider Threat": 58,
+				"Compromised Users": 17,
+				"Compromised Endpoints": 30
+			},
+			{
+				"dateTime": 1598445000000,
+				"Data Exfiltration": 6,
+				"Insider Threat": 5,
+				"Compromised Users": 1,
+				"Compromised Endpoints": 10
+			},
+			{
+				"dateTime": 1598531400000,
+				"Data Exfiltration": 28,
+				"Insider Threat": 7,
+				"Compromised Users": 21,
+				"Compromised Endpoints": 35
+			},
+			{
+				"dateTime": 1598617800000,
+				"Data Exfiltration": 27,
+				"Insider Threat": 0,
+				"Compromised Users": 27,
+				"Compromised Endpoints": 90
+			},
+			{
+				"dateTime": 1598704200000,
+				"Data Exfiltration": 29,
+				"Insider Threat": 1,
+				"Compromised Users": 28,
+				"Compromised Endpoints": 95
+			},
+			{
+				"dateTime": 1598790600000,
+				"Data Exfiltration": 99,
+				"Insider Threat": 65,
+				"Compromised Users": 34,
+				"Compromised Endpoints": 34
+			},
+			{
+				"dateTime": 1598877000000,
+				"Data Exfiltration": 71,
+				"Insider Threat": 51,
+				"Compromised Users": 20,
+				"Compromised Endpoints": 90
+			},
+			{
+				"dateTime": 1598963400000,
+				"Data Exfiltration": 71,
+				"Insider Threat": 56,
+				"Compromised Users": 15,
+				"Compromised Endpoints": 78
+			},
+			{
+				"dateTime": 1599049800000,
+				"Data Exfiltration": 67,
+				"Insider Threat": 8,
+				"Compromised Users": 59,
+				"Compromised Endpoints": 63
+			},
+			{
+				"dateTime": 1599136200000,
+				"Data Exfiltration": 22,
+				"Insider Threat": 4,
+				"Compromised Users": 18,
+				"Compromised Endpoints": 75
+			},
+			{
+				"dateTime": 1599222600000,
+				"Data Exfiltration": 46,
+				"Insider Threat": 45,
+				"Compromised Users": 1,
+				"Compromised Endpoints": 6
+			},
+			{
+				"dateTime": 1599309000000,
+				"Data Exfiltration": 42,
+				"Insider Threat": 9,
+				"Compromised Users": 33,
+				"Compromised Endpoints": 12
+			},
+			{
+				"dateTime": 1599395400000,
+				"Data Exfiltration": 37,
+				"Insider Threat": 1,
+				"Compromised Users": 36,
+				"Compromised Endpoints": 49
+			},
+			{
+				"dateTime": 1599481800000,
+				"Data Exfiltration": 90,
+				"Insider Threat": 76,
+				"Compromised Users": 14,
+				"Compromised Endpoints": 100
+			},
+			{
+				"dateTime": 1599568200000,
+				"Data Exfiltration": 66,
+				"Insider Threat": 18,
+				"Compromised Users": 48,
+				"Compromised Endpoints": 98
+			},
+			{
+				"dateTime": 1599654600000,
+				"Data Exfiltration": 50,
+				"Insider Threat": 11,
+				"Compromised Users": 39,
+				"Compromised Endpoints": 11
+			}
+		]
+	}
+}
