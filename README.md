@@ -8,5 +8,5 @@
 
 ## About the application
 It displays data in a stacked column chart and a data table.
-
-No external library have been used to develop the application.
+The same has been implemented with custom components using react, html and css.
+No external chart/data-table library have been used to develop the application.
