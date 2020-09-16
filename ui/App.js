@@ -13,7 +13,7 @@ const stacks = [
 export default function App() {
     return (
         <div>
-            <a className='github' href="https://github.com/pankaj021/citrix-chart" target = "_blank">Github link</a>
+            <a className='github' href="https://github.com/pankaj021/citrix-statistics" target = "_blank">Github link</a>
             <CustomChart 
                 data={data.defaultReport.items}
                 stacks={stacks}
